@@ -315,6 +315,9 @@ namespace Iadeptmain.GlobalClasses
             try
             {
                 PublicClass.User_DataBase = db;
+
+                /*Sanjay */
+
                 //PublicClass.conn.ConnectionString = "DRIVER= {MySQL ODBC 3.51 Driver}; server= localhost; Database= " + PublicClass.User_DataBase.Trim() + "; User=root; password=1234";
                 PublicClass.conn.ConnectionString = "DRIVER= {MySQL ODBC 5.3 ANSI Driver}; server= localhost; Database= " + PublicClass.User_DataBase.Trim() + "; User=root; password=1234";
                 //PublicClass.conn.ConnectionString = "DRIVER= {MySQL ODBC 3.51 Driver}; server= localhost; Database= " + PublicClass.User_DataBase.Trim() + "; User=root; password=1234;";
