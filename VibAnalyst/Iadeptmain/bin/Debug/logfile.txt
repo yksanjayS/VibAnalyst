@@ -1,0 +1,1688 @@
+Data Time:08-10-2015 11:39:45
+Exception Name:System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at DevExpress.XtraTreeList.Nodes.TreeListNodes.get_Item(Int32 index)
+   at Iadeptmain.Mainforms.frmIAdeptMain.fillform()
+Event Name:System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.ArrayList.get_Item(Int32 index)
+   at DevExpress.XtraTreeList.Nodes.TreeListNodes.get_Item(Int32 index)
+   at Iadeptmain.Mainforms.frmIAdeptMain.fillform()
+Error Line No.:0
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:30-12-2015 18:51:34
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:30-12-2015 18:54:15
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:30-12-2015 18:59:19
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:31-12-2015 11:38:32
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:31-12-2015 13:21:54
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:31-12-2015 13:30:28
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:31-12-2015 13:34:13
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:31-12-2015 19:35:03
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2016 11:09:41
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2016 11:12:52
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2016 11:31:06
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2016 12:04:17
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2016 13:55:24
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2016 14:12:40
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2016 14:24:11
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2016 14:39:53
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2016 16:31:25
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2016 16:35:44
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2016 18:55:56
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:04-01-2016 12:05:36
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:04-01-2016 12:23:01
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:04-01-2016 12:30:45
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:04-01-2016 14:06:28
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:04-01-2016 17:07:57
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 11:14:49
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 11:37:33
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 11:45:23
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 12:08:44
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 12:19:43
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 12:48:16
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 12:59:50
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 13:10:27
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 13:13:11
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 13:16:51
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 13:19:56
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 13:21:29
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 13:27:03
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 13:40:15
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 13:44:20
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 13:49:10
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 16:40:57
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2016 18:12:19
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-01-2016 13:34:14
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-01-2016 14:51:58
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1749
+Error Line No.:1749
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:27-01-2016 16:52:45
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1741
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\Iadept\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1741
+Error Line No.:1741
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-12-2016 12:53:58
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1814
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1814
+Error Line No.:1814
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-12-2016 14:59:49
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Error Line No.:1804
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-12-2016 17:08:41
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Error Line No.:1804
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-12-2016 17:42:18
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Error Line No.:1804
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-12-2016 12:35:22
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Error Line No.:1804
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-12-2016 12:45:45
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Error Line No.:1804
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-12-2016 12:49:48
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Error Line No.:1804
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-12-2016 12:51:04
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Error Line No.:1804
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-12-2016 18:31:12
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Error Line No.:1804
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-12-2016 18:31:19
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Error Line No.:1804
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-12-2016 18:32:28
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1804
+Error Line No.:1804
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-12-2016 12:40:24
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-12-2016 13:12:13
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-12-2016 13:19:55
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-12-2016 13:37:48
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-12-2016 14:02:49
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-12-2016 14:18:38
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-12-2016 14:50:19
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:14-12-2016 16:08:33
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:14-12-2016 16:52:53
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:17-12-2016 15:51:20
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:19-12-2016 11:41:44
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:19-12-2016 16:27:16
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:19-12-2016 16:38:05
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:27-12-2016 11:30:23
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-12-2016 12:26:49
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-12-2016 12:59:41
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:29-12-2016 12:14:01
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:30-12-2016 10:02:29
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:30-12-2016 10:43:40
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:30-12-2016 11:00:14
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:30-12-2016 11:25:32
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:30-12-2016 12:37:38
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:04-01-2017 14:35:22
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:04-01-2017 14:54:29
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:04-01-2017 15:28:12
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:05-01-2017 12:23:18
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2017 10:34:45
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2017 11:16:01
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2017 11:25:21
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2017 11:28:26
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2017 11:30:11
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2017 11:33:24
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2017 11:37:26
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2017 11:41:44
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2017 11:42:29
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-01-2017 12:25:57
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:09-01-2017 12:19:41
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:10-01-2017 14:21:44
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:11-01-2017 16:18:20
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-01-2017 11:52:35
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-01-2017 16:07:08
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:16-01-2017 12:34:30
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:17-01-2017 12:21:07
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:17-01-2017 14:38:24
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:17-01-2017 15:39:22
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:20-01-2017 12:35:09
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:31-01-2017 13:04:45
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:01-02-2017 10:52:19
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:01-02-2017 16:07:08
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-02-2017 10:19:45
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-02-2017 12:56:28
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-02-2017 13:22:38
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-02-2017 14:13:53
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-02-2017 16:02:20
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in d:\All Backup\VibAnalyst Backup\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in d:\All Backup\VibAnalyst Backup\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-02-2017 16:16:27
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in d:\All Backup\VibAnalyst Backup\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in d:\All Backup\VibAnalyst Backup\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-02-2017 17:42:59
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-02-2017 11:20:43
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-02-2017 11:21:53
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-02-2017 11:44:30
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-02-2017 12:46:42
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 14:30:29
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 15:40:50
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 15:45:21
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 15:51:39
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 16:01:54
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 16:25:42
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 16:45:18
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 16:45:58
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 16:57:05
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 18:09:16
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 18:14:05
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 18:18:53
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 18:24:23
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 18:38:14
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-02-2017 18:50:38
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:09-02-2017 10:23:22
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:09-02-2017 10:37:40
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:09-02-2017 10:52:52
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:09-02-2017 11:00:46
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:09-02-2017 11:12:18
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:03-03-2017 10:51:02
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:03-03-2017 10:52:13
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-04-2017 17:49:35
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1798
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1798
+Error Line No.:1798
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:06-04-2017 17:50:58
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:03-05-2017 16:57:53
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:19-06-2017 17:40:26
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1798
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1798
+Error Line No.:1798
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:20-06-2017 10:51:10
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:20-06-2017 11:10:41
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:22-06-2017 13:50:43
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-07-2017 13:11:11
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-07-2017 06:24:19
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:08-07-2017 14:42:16
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1798
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1798
+Error Line No.:1798
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:27-07-2017 16:06:39
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:31-07-2017 15:52:18
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-09-2017 12:17:57
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-09-2017 11:30:58
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1788
+Error Line No.:1788
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-09-2017 15:25:45
+Exception Name:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at Iadeptmain.Mainforms.frmIAdeptMain.bbNew_ItemClick(Object sender, ItemClickEventArgs e) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1394
+Event Name:DevExpress.XtraBars.ItemClickEventArgs
+Error Line No.:1394
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-09-2017 15:25:47
+Exception Name:System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at Iadeptmain.Mainforms.frmIAdeptMain.bbNew_ItemClick(Object sender, ItemClickEventArgs e) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1394
+Event Name:DevExpress.XtraBars.ItemClickEventArgs
+Error Line No.:1394
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-09-2017 15:47:12
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Error Line No.:1833
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-09-2017 16:45:56
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Error Line No.:1833
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-09-2017 16:47:36
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Error Line No.:1833
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-09-2017 17:00:53
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Error Line No.:1833
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-09-2017 17:54:08
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Error Line No.:1833
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:12-09-2017 17:58:25
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Error Line No.:1833
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 10:30:13
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Error Line No.:1833
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 10:32:25
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Error Line No.:1833
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 10:36:47
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Error Line No.:1833
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 11:48:19
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1833
+Error Line No.:1833
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 14:21:35
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Error Line No.:1843
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 14:23:38
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Error Line No.:1843
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 14:37:52
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Error Line No.:1843
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 14:41:16
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Error Line No.:1843
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 14:53:40
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Error Line No.:1843
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 15:00:24
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Error Line No.:1843
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 16:05:31
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Error Line No.:1843
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-09-2017 16:50:59
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Error Line No.:1843
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:14-09-2017 10:16:51
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Error Line No.:1843
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:14-09-2017 10:18:19
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1843
+Error Line No.:1843
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:25-10-2017 12:20:26
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:25-10-2017 14:56:00
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-10-2017 11:21:10
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-10-2017 12:18:00
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-10-2017 12:26:15
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-10-2017 12:34:36
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-10-2017 12:38:41
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-10-2017 12:42:38
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-10-2017 12:46:58
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-10-2017 12:53:44
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-10-2017 12:59:47
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-11-2017 13:08:39
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-11-2017 13:17:56
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-11-2017 15:35:23
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:07-11-2017 15:43:30
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:09-11-2017 14:24:14
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:09-11-2017 14:55:58
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:28-11-2017 12:43:12
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:09-12-2017 17:32:27
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:13-12-2017 12:02:53
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:15-12-2017 12:40:42
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:18-12-2017 12:44:11
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:27-12-2017 15:19:34
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:02-01-2018 14:45:26
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:23-01-2018 16:53:22
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:03-02-2018 10:53:22
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:03-02-2018 16:06:08
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:05-02-2018 12:32:37
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:15-02-2018 15:48:39
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:16-02-2018 16:12:43
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:16-02-2018 16:34:13
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:17-02-2018 11:45:40
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:19-02-2018 12:02:37
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:19-02-2018 12:04:19
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1844
+Error Line No.:1844
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
+Data Time:19-02-2018 14:34:32
+Exception Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Event Name:System.NullReferenceException: Object reference not set to an instance of an object.
+   at Iadeptmain.Mainforms.frmIAdeptMain.barcolor(String color) in c:\Users\vimal\Desktop\VibAnalyst Data\Iadeptmain\Iadeptmain\Mainforms\frmIAdeptMain.cs:line 1834
+Error Line No.:1834
+Form Name:frmIAdeptMain
+------------------------------------------------------------------------------------------------------------------------
